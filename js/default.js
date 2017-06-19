@@ -1,3 +1,1 @@
-window.alert('こんにちは');
-
-console.log('こんにちは');
+document.getElementById('choice').textContent = new Date();
